@@ -1,4 +1,4 @@
-# json-placeholder
+# Vue-Axios http  GET/POST/PUT/PATCH/DELETE Request Fetch API with JSON Placeholder
 
 ## Project setup
 ```
